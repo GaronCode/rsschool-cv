@@ -1,5 +1,6 @@
 
 # [CV link](https://garoncode.github.io/rsschool-cv/cv)
+# [Shelter](https://garoncode.github.io/rsschool-cv/shelter/)
 
 # Ilya Sidorenko
 
