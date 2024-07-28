@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+li{
+    list-style-type: none;
+}
+
+body {
+    background-color: #5DCFC3;
+    color: #29477F;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    padding-top: 20px;
+    height: 100%;
+    flex: auto;
+}
+
+header, footer {
+    background-color: #29477F;
+    color: #5DCFC3;
+    padding:  20px 0;
+}
+footer a, header a {
+    color: #8fc4bf
+}
+footer {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #052A6E;
+}
+.text-center {
+    text-align: center;
+}
+.block-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+max-width: 300px;
+margin: 0 auto;
+}
+a {
+	text-decoration: none;
+}
+nav {
+	cursor: pointer;
+	user-select: none;
+}
+main {
+	margin-bottom: 15px;
+}
+.h2 {
+	margin-top: 15px;
+	margin-bottom: 3px;
+	font-size: large;
+}
+.gh-logo {
+	margin-top: 10px;
+	height: 50px;
+}
+.footer-a {
+	margin-bottom: 15px;
+}
+.footer-logo {
+	height: 30px;
+}
