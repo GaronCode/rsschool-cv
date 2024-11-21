@@ -17,3 +17,13 @@ garon7777@ya.ru
   * Axios
 * AngularJS/Angular2
   * rxjs
+
+### Code examples
+```javascript
+console.log('Hi');
+```
+
+### Experience
+from first "hello world" php 5.4 in 12's 
+to Vue3 + TS in 24's
+
