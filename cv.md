@@ -27,3 +27,5 @@ console.log('Hi');
 from first "hello world" php 5.4 in 12's 
 to Vue3 + TS in 24's
 
+### Education
+SelfStudy, GB, Vueacademy, RS School
